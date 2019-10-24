@@ -46,7 +46,7 @@ public class Product implements IBaseObject {
 
     /**
      * Функция получения количества калорий в продукте
-     * @return
+     * @return количество калорий в продукте
      */
     public int getCalorie() { return this.calorie; }
 
